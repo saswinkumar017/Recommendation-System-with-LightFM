@@ -1,0 +1,9 @@
+{
+  "no_components": 30,
+  "learning_rate": 0.05,
+  "max_sampled": 10,
+  "random_state": 42,
+  "loss": "warp",
+  "n_users": 943,
+  "n_items": 1682
+}

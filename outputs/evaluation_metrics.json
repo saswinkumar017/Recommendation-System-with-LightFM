@@ -1,0 +1,6 @@
+{
+  "Precision@K": 0.0844,
+  "Recall@K": 0.0786,
+  "AUC": 0.2872,
+  "RankingLoss": 0.4901
+}

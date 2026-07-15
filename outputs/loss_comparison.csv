@@ -1,0 +1,4 @@
+Precision@K,Recall@K,AUC,RankingLoss,Loss
+0.0844,0.0786,0.2872,0.4901,warp
+0.1012,0.0994,0.2852,0.4891,bpr
+0.09,0.0781,0.2963,0.4919,logistic
